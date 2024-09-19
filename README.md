@@ -8,7 +8,7 @@ This Aim Trainer game is developed using Python and Pygame, designed to help you
 3. Lives system: The game ends when you miss too many targets.
 
 # Prerequisites:
-1. Python: Make sure Python is installed on your system. You can download it from here.
+1. Python: Make sure Python is installed on your system. You can download it from here: https://www.python.org/downloads/
 2. Pygame: Install the Pygame library by running the following command: pip install pygame
 
 # How to Play:
